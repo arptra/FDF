@@ -4,6 +4,11 @@ This project is about creating a simplified graphic “wireframe” (“fils de 
 
 ![Alt image](https://github.com/arptra/FDF/blob/master/map_fdf.png)  
   
+  Each number corresponds to a point in space:
+  - The horizontal position corresponds to its axis.
+  - The vertical position corresponds to its ordinate.
+  - The value corresponds to its altitude  
+  
 # Run FDF
 `./fdf AblH.fdf`  
 
